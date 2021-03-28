@@ -1,2 +1,1 @@
-# 123Hello-world
-python code
+# Hello-world in python code
